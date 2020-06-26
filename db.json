@@ -10,5 +10,64 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "kip":   {
+    "jsonapi": { "version": "1.0" },
+    "rows": [
+    {
+    "ItemPosNo": "1",
+    "ItemNo": "1010200000",
+    "ItemDesc": "",
+    "ItemME": "VE",
+    "ItemCount": "1",
+    "ItemPrice": "",
+    "ItemTotal": ""
+    },
+    {
+    "ItemPosNo": "2",
+    "ItemNo": "1706010000",
+    "ItemDesc": "",
+    "ItemME": "VE",
+    "ItemCount": "3",
+    "ItemPrice": "",
+    "ItemTotal": ""
+    },
+    {
+    "ItemPosNo": "3",
+    "ItemNo": "0236500000",
+    "ItemDesc": "",
+    "ItemME": "m",
+    "ItemCount": "10",
+    "ItemPrice": "",
+    "ItemTotal": ""
+    },
+    {
+    "ItemPosNo": "4",
+    "ItemNo": "1706110000",
+    "ItemDesc": "",
+    "ItemME": "VE",
+    "ItemCount": "5",
+    "ItemPrice": "",
+    "ItemTotal": ""
+    },
+    {
+    "ItemPosNo": "5",
+    "ItemNo": "1050100000",
+    "ItemDesc": "",
+    "ItemME": "VE",
+    "ItemCount": "5",
+    "ItemPrice": "",
+    "ItemTotal": ""
+    },
+    {
+    "ItemPosNo": "6",
+    "ItemNo": "1019000000",
+    "ItemDesc": "",
+    "ItemME": "VE",
+    "ItemCount": "1",
+    "ItemPrice": "",
+    "ItemTotal": ""
+    }
+    ]
+    }
 }
